@@ -3,7 +3,7 @@ bin-debug/
 bin-release/
 [Oo]bj/
 [Bb]in/
-
+util.php
 # Other files and folders
 .settings/
 

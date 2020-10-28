@@ -1,0 +1,34 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    position: relative;
+    display: flex;
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
+}
+.row{
+    margin-top: 44px;
+}
+.strath-logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 22px;
+}
+h1,h2{
+    font-size: 45px;
+    text-align: center;
+    font-weight: 700;
+    font-family: 'Roboto Condensed';
+    text-transform: uppercase;
+    border-bottom: 1px solid;
+}
+p{
+    font-size: 20px;
+}
